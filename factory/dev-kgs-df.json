@@ -1,0 +1,9 @@
+{
+	"name": "dev-kgs-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3aa893f4-42fa-497b-b4a7-d4cb75d58c16",
+		"tenantId": "137907e0-9db0-49f8-8cdf-5602e1a40cd8"
+	}
+}
